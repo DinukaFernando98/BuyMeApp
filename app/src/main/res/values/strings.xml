@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BuyMeApp</string>
+    <string name="text_view111">Sample</string>
+    <string name="Text_view1">Address</string>
+    <string name="Text_view2">Contact</string>
+    <string name="Text_view3">Email</string>
+    <string name="Text_view4">Password</string>
+    <string name="Text_view5">Saller Name</string>
+    <string name="Text_view6">Password</string>
+    <string name="Text_view7">Enter Item</string>
+    <string name="Text_view8">Item catagary</string>
+    <string name="Text_view">Item Name</string>
+    <string name="Text_view9">Item Picture</string>
+    <string name="Text_view10">Item Price</string>
+    <string name="Text_view11">Item Details</string>
+    <string name="Text_view12">Item Details</string>
+    <string name="Text_view13">Item Details</string>
+    <string name="Text_view14">Item Details</string>
+    <string name="profile_home">Profile</string>
+    <string name="Text_view15">Add Items</string>
+    <string name="item_item">ITEM</string>
+    <string name="Text_view16">10</string>
+    <string name="Text_view17">Black Dark colour,shape head,line art</string>
+    <string name="Text_home0">Name</string>
+    <string name="Text_home1">Kushan Kavindu</string>
+    <string name="Text_home2">SELLER</string>
+    <string name="Text_home3">SIGN OUT</string>
+    <string name="Text_home4">Account DELETE</string>
+    <string name="Text_home5">kavindujayasena@gmail.com</string>
+    <string name="Text_home6">0752416925</string>
+    <string name="Text_home7">Back</string>
+    <string name="Text_home8">no.25,Hospital Road</string>
+    <string name="Text_account1">ACCOUNT</string>
+    <string name="Text_account2">REGISTATION / UPDATE</string>
+    <string name="Text_account3">COMPANY</string>
+    <string name="Text_account4">PERSON</string>
+    <string name="Text_account5">SUBMIT</string>
+    <string name="Text_account6">UPDATE</string>
+    <string name="Text_account7">CANCEL</string>
+
+</resources>
